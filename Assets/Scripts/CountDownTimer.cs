@@ -19,11 +19,5 @@ public class CountDownTimer : MonoBehaviour
             SceneManager.LoadScene(2);
         // GameOverScene
         }
-
-        // if (timeLeft < 10)
-        // {
-        //     Text.transform.LocalScale += new Vector3(1.5f, 1.5f, 1f);
-        //Text Bobbing/ADD COLOR CHANGES
-        // }
     }
 }
